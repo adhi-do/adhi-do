@@ -7,8 +7,5 @@ Hi, I'm Adhithyan, a Computer Science Engineering student with a strong foundati
 *   **Tools & Systems:** Linux (Btrfs, Daemon Management), Neovim, Git, GitHub, SSH[cite: 2].
 *   **Backend Details:** Built with Python 3 and Flask, utilizing JSON file persistence to handle incoming messages.
 
-## ✨ Features
-*   **Interactive Web Terminal:** A browser-based CLI widget that simulates bash commands to explore my skills and projects.
-*   **Flask Backend Message Box:** A custom REST API (`POST /api/messages`) that receives and stores contact form submissions from visitors.
-*   **Project Showcases:** Highlights my hands-on work, including a Chromium-compatible productivity browser extension and an interactive To-Do list using the LocalStorage API[cite: 1, 2].
-*   **CLI Message Reader:** A dedicated Python script (`view_messages.py`) that allows me to read incoming portfolio messages directly from my local terminal.
+## peer to peer messager
+  https://p2p-chat.woga.workers.dev/
